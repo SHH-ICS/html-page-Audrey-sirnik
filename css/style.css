@@ -3,7 +3,7 @@ body{
 }
 h1{
     text-align: center;
-}
-h1{
     font: size 150%;
+    background-color:plum;
+    font-family:fantasy;
 }
